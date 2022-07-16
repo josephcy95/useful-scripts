@@ -1,5 +1,7 @@
-# useful-scripts
+# Personal collection of useful scripts
 
-
-Speedtest Malaysia
-wget -qO- https://raw.githubusercontent.com/josephcy95/useful-scripts/main/bench.sh?token=ADD3RMYFXVFRPFTZMGTSI3C77ZEUO | bash
+### Bench.sh
+Run speedtest from multiple server location in Malaysia
+```
+wget -qO- https://raw.githubusercontent.com/josephcy95/useful-scripts/main/bench.sh | sudo bash
+```
