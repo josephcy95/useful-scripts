@@ -70,16 +70,11 @@ speed_test() {
 }
 
 speed() {
-    speed_test '' 'Speedtest.net'
     speed_test '11557'  'U Mobile'
     speed_test '10327'  'Telekom Malaysia Berhad'
     speed_test '4956'  'Celcom Axiata'
-    speed_test '19302'  'Telekom Malaysia Berhad'
     speed_test '28782'  'webe Digital Sdn Bhd'
-    speed_test '30592'  'Shinjiru Technology'
     speed_test '1701'  'Yes 4G'
-    speed_test '20140'  'InNET'
-    speed_test '4348'  'Exabytes Cloud Sdn Bhd'
     speed_test '8700'  'YTL Broadband'
 }
 
